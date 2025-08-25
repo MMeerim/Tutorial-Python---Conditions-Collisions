@@ -1,1 +1,0 @@
-# Tutorial-Python---Conditions-Collisions
